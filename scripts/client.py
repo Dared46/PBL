@@ -1,6 +1,6 @@
 import socket
 
-#lista de topicos inscritos pelo cliente
+#lista de dispositivos inscritos pelo cliente
 my_topics = []
 
 #instanciação e configuração da socket
